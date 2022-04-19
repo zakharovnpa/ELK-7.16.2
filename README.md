@@ -4,7 +4,7 @@
 
 ## Порядок запуска стэка ELK:
 ### 1. Склонировать репозиторий 
-1. Выполнить `git clone <url_address_repo>`
+1. Выполнить `git clone git@github.com:zakharovnpa/ELK-7.16.2.git`
 ### 2. Подготовка ОС 
 1. Выполнить команду `sysctl -w vm.max_map_count=262144` 
 ### 3. Установка стэка
